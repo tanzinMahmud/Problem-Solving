@@ -1,2 +1,2 @@
 # Problem-Solving-Using-C
-All problem solving solutions
+All problem solving solutions using c.
